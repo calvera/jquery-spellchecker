@@ -11,7 +11,7 @@
 
 namespace SpellChecker\Driver;
 
-class PSpell extends \SpellChecker\Driver
+class Pspell extends \SpellChecker\Driver
 {
 	protected $_default_config = array(
 		'dictionary' => 'pspell/dictionary',
